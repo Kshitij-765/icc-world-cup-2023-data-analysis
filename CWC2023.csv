@@ -1,0 +1,49 @@
+Match ID,Match Date,Match Time,City,Stadium,Team A,Team B,Toss Winner,Toss Decision,Score A,Wickets A,Overs Played A,Maiden Overs A,Boundaries A,Runrate A,,,,,Extras A,Score B,Wickets B,Overs Played B,Maiden Overs B,,,Boundaries B,Runrate B,,,,,,Extras B,Wining Team,Margin,Man of the Match
+1,05-10-2023,2:00 PM,Ahmedabad,Narendra Modi Stadium,England,NewZealand,NewZealand,Field,282,9,50,2,27,5.64,,,,,8,283,1,36.2,2,,,38,7.78,,,,,,6,NewZealand,9 Wickets,Rachin Ravindra
+2,06-10-2023,2:00 PM,Hyderabad,Eden Gardens,Pakistan,Netherlands,Netherlands,Field,286,10,49,1,36,5.83,,,,,9,205,10,41,1,,,24,5,,,,,,9,Pakistan,81 Runs,Saud Shakeel
+3,07-10-2023,2:00 PM,Dharamshala,HPCA Stadium,Afghanistan,Bangladesh,Bangladesh,Field,156,10,37.2,1,17,4.17,,,,,8,158,4,34.4,5,,,14,4.55,,,,,,8,Bangladesh,6 Wickets,Mehidy Hasan Miraz
+4,07-10-2023,2:00 PM,Delhi,Arun Jaitley Stadium,South Africa,Sri Lanka,Sri Lanka,Field,428,5,50,1,59,8.56,,,,,20,326,10,44.5,1,,,48,7.27,,,,,,23,South Africa,102 Runs,Aiden Markram
+5,08-10-2023,2:00 PM,Chennai,M. A. Chidambaram Stadium,Australia,India,Australia,Bat,199,10,49.3,1,18,4.02,,,,,8,201,4,41.2,4,,,17,4.86,,,,,,12,India,6 wickets,KL Rahul
+6,09-10-2023,2:00 PM,Hyderabad,Rajiv Gandhi International Stadium,NewZealand,Netherlands,Netherlands,Field,322,7,50,0,40,6.44,,,,,4,223,10,46.3,3,,,22,4.79,,,,,,13,NewZealand,99 Runs,Mitchell Santner
+7,10-10-2023,10:30 AM,Dharamshala,HPCA Stadium,England,Bangladesh,Bangladesh,Field,364,9,50,1,48,7.28,,,,,7,227,10,48.2,0,,,20,4.69,,,,,,7,England,137 Runs,Dawid Malan
+8,10-10-2023,2:00 PM,Hyderabad,Rajiv Gandhi International Stadium,Sri Lanka,Pakistan,Sri Lanka,Bat,344,9,50,0,45,6.88,,,,,26,345,4,48.2,0,,,32,7.13,,,,,,14,Pakistan,6 Wickets,Mohammad Rizwan
+9,11-10-2023,2:00 PM,Delhi,Arun Jaitley Stadium,Afghanistan,India,Afghanistan,Bat,272,8,50,0,32,5.44,,,,,15,273,2,35,0,,,36,7.8,,,,,,15,India,8 Wickets,Rohit Sharma
+10,12-10-2023,2:00 PM,Lucknow,BRSABV Ekana Cricket Stadium,South Africa,Australia,Australia,Field,311,7,50,3,34,6.22,,,,,17,177,10,40.5,2,,,19,4.33,,,,,,13,South Africa,134 Runs,Quinton de Kock
+11,13-10-2023,2:00 PM,Chennai,M. A. Chidambaram Stadium,Bangladesh,NewZealand,NewZealand,Field,245,9,50,1,28,4.9,,,,,11,248,2,42.5,1,,,26,5.78,,,,,,9,NewZealand,8 Wickets,Lockie Ferguson
+12,14-10-2023,2:00 PM,Ahmedabad,Narendra Modi Stadium,Pakistan,India,India,Field,191,10,42.5,0,26,4.45,,,,,6,192,3,30.3,1,,,25,6.29,,,,,,4,India,7 Wickets,Jasprit Bumrah
+13,15-10-2023,2:00 PM,Delhi,Arun Jaitley Stadium,Afghanistan,England,England,Field,284,10,49.5,3,31,5.69,,,,,13,215,10,40.3,2,,,25,5.3,,,,,,15,Afghanistan, 69 Runs,Mujeeb Ur Rahman
+14,16-10-2023,2:00 PM,Lucknow,BRSABV Ekana Cricket Stadium,Sri Lanka,Australia,Sri Lanka,Bat,209,10,43.3,2,24,4.8,,,,,3,215,5,35.2,2,,,27,6.08,,,,,,13,Australia,5 Wickets,Adam Zampa
+15,17-10-2023,2:00 PM,Dharamshala,HPCA Stadium,Netherlands,South Africa,South Africa,Field,245,8,43,1,29,5.69,,,,,8,207,10,42.5,3,,,24,4.83,,,,,,32,Netherlands,38 Runs,Scott Edwards
+16,18-10-2023,2:00 PM,Chennai,M. A. Chidambaram Stadium,NewZealand,Afghanistan,Afghanistan,Field,288,6,50,4,30,5.76,,,,,5,139,10,34.4,2,,,13,4,,,,,,10,NewZealand,149 Runs,Glenn Phillips
+17,19-10-2023,2:00 PM,Pune,Maharashtra Cricket Association Stadium,Bangladesh,India,Bangladesh,Bat,256,8,50,0,26,5.12,,,,,4,261,3,41.3,1,,,32,6.28,,,,,,6,India,7 Wickets,Virat Kohli
+18,20-10-2023,2:00 PM,Bangalore,M. Chinnaswamy Stadium,Australia,Pakistan,Pakistan,Field,367,9,50,1,48,7.34,,,,,19,305,10,45.3,1,,,40,6.7,,,,,,25,Australia,62 Runs,David Warner
+19,21-10-2023,10:30 AM,Lucknow,BRSABV Ekana Cricket Stadium,Netherlands,Sri Lanka,Netherlands,Bat,262,10,49.4,1,17,5.27,,,,,24,263,5,48.2,2,,,26,5.44,,,,,,33,Sri Lanka,5 Wickets,Sadeera Samarawickrama
+20,21-10-2023,2:00 PM,Mumbai,Wankhede Stadium,South Africa,England,England,Field,399,7,50,2,51,7.98,,,,,15,170,10,22,1,,,27,7.72,,,,,,15,South Africa,229 Runs,Heinrich Klaasen
+21,22-10-2023,2:00 PM,Dharamshala,HPCA Stadium,NewZealand,India,India,Field,273,10,50,0,26,5.46,,,,,5,274,6,48,2,,,36,5.7,,,,,,15,India,4 Wickets,Mohammed Shami
+22,23-10-2023,2:00 PM,Chennai,M. A. Chidambaram Stadium,Pakistan,Afghanistan,Pakistan,Bat,282,7,50,2,26,5.64,,,,,9,286,2,49,0,,,31,5.83,,,,,,17,Afghanistan,8 Wickets,Ibrahim Zadran
+23,24-10-2023,2:00 PM,Mumbai,Wankhede Stadium,South Africa,Bangladesh,South Africa,Bat,382,5,50,2,45,7.64,,,,,17,233,10,46.4,0,,,30,4.99,,,,,,10,South Africa,149 Runs,Quinton de Kock
+24,25-10-2023,2:00 PM,Delhi,Arun Jaitley Stadium,Australia,Netherlands,Australia,Bat,399,8,50,0,57,7.98,,,,,7,90,10,21,0,,,13,4.28,,,,,,12,Australia,309 Runs,Glenn Maxwell
+25,26-10-2023,2:00 PM,Bangalore,M. Chinnaswamy Stadium,England,Sri Lanka,England,Bat,156,10,33.2,0,20,4.68,,,,,3,160,2,25.4,2,,,20,6.23,,,,,,7,Sri Lanka,8 Wickets,Lahiru Kumara
+26,27-10-2023,2:00 PM,Chennai,M. A. Chidambaram Stadium,Pakistan,South Africa,Pakistan,Bat,270,10,46.4,1,31,5.78,,,,,21,271,9,47.2,1,,,29,5.22,,,,,,19,South Africa,1 Wicket,Tabraiz Shamsi
+27,28-10-2023,10:30 AM,Dharamshala,HPCA Stadium,Australia,NewZealand,NewZealand,Field,388,10,49.2,0,52,7.86,,,,,26,383,9,50,0,,,45,7.66,,,,,,9,Australia,5 Runs,Travis Head
+28,28-10-2023,2:00 PM,Kolkata,Eden Gardens,Netherlands,Bangladesh,Netherlands,Bat,142,10,42.2,5,24,3.35,,,,,6,229,10,50,3,,,18,4.58,,,,,,12,Netherlands,87 Runs,Paul van Meekeren
+29,29-10-2023,2:00 PM,Lucknow,BRSABV Ekana Cricket Stadium,India,England,England,Field,229,9,50,4,24,4.58,,,,,8,129,10,34.5,5,,,13,3.7,,,,,,7,India,100 Runs,Rohit Sharma
+30,30-10-2023,2:00 PM,Pune,Maharashtra Cricket Association Stadium,Sri Lanka,Afghanistan,Afghanistan,Field,241,10,49.3,0,21,4.86,,,,,10,242,3,45.2,1,,,24,5.33,,,,,,11,Afghanistan,7 Wickets,Fazalhaq Farooqi
+31,31-11-2023,2:00 PM,Kolkata,Eden Gardens,Bangladesh,Pakistan,Bangladesh,Bat,205,3,32.3,2,22,6.3,,,,,4,204,10,45.1,2,,,28,4.51,,,,,,9,Pakistan,7 Wickets,Fakhar Zaman
+32,01-11-2023,2:00 PM,Pune,Maharashtra Cricket Association Stadium,South Africa,NewZealand,NewZealand,Field,357,4,50,4,41,7.14,,,,,12,167,10,35.3,1,,,21,4.7,,,,,,12,South Africa,190 Runs,Rassie van der Dussen
+33,02-11-2023,2:00 PM,Mumbai,Wankhede Stadium,India,Sri Lanka,Sri Lanka,Field,357,8,50,4,40,7.14,,,,,10,55,10,19.4,2,,,6,2.79,,,,,,20,India,302 Runs,Mohammed Shami
+34,03-11-2023,10:30 AM,Lucknow,BRSABV Ekana Cricket Stadium,Netherlands,Afghanistan,Netherlands,Bat,181,3,31.3,0,19,5.74,,,,,12,179,10,46.3,1,,,21,3.84,,,,,,16,Afghanistan,7 Wickets,Mohammad Nabi
+35,04-11-2023,2:00 PM,Bangalore,M. Chinnaswamy Stadium,NewZealand,Pakistan,Pakistan,Field,401,6,50,1,54,8.02,,,,,4,200,1,25.3,0,,,28,7.84,,,,,,26,Pakistan,21 Runs DLS Method,Fakhar Zaman
+36,04-11-2023,2:00 PM,Ahmedabad,Narendra Modi Stadium,Australia,England,England,Field,286,10,49.3,2,28,5.77,,,,,14,253,10,48.1,1,,,28,5.25,,,,,,10,Australia,33 Runs,Adam Zampa
+37,05-11-2023,2:00 PM,Kolkata,Eden Gardens,India,South Africa,India,Bat,326,5,50,3,41,6.52,,,,,2,83,10,27.1,1,,,10,3.05,,,,,,26,India,243 Runs,Virat Kohli
+38,06-11-2023,2:00 PM,Delhi,Arun Jaitley Stadium,Sri Lanka,Bangladesh,Bangladesh,Field,279,10,49.3,2,34,5.63,,,,,23,282,7,41.1,1,,,40,6.85,,,,,,6,Bangladesh,3 Wickets,Shakib Al Hasan
+39,07-11-2023,2:00 PM,Mumbai,Wankhede Stadium,Australia,Afghanistan,Afghanistan,Bat,293,7,46.5,0,42,6.25,,,,,16,291,5,50,3,,,25,5.82,,,,,,15,Australia,3 Wickets,Glenn Maxwell
+40,08-11-2023,2:00 PM,Pune,Maharashtra Cricket Association Stadium,England,Netherlands,England,Bat,179,10,37.2,2,36,4.79,,,,,8,339,9,50,0,,,21,6.78,,,,,,21,England,160 Runs,Ben Stokes
+41,09-11-2023,2:00 PM,Bangalore,M. Chinnaswamy Stadium,NewZealand,Sri Lanka,NewZealand,Field,171,10,46.4,7,28,3.66,,,,,4,172,5,23.2,1,,,24,7.37,,,,,,2,NewZealand,5 Wickets,Trent Boult
+42,10-11-2023,10:30 AM,Ahmedabad,Narendra Modi Stadium,Afghanistan,South Africa,Afghanistan,Bat,244,10,50,2,26,4.88,,,,,9,247,5,47.3,2,,,24,"5,20",,,,,,15,South Africa,5 Wickets,Rassie van der Dussen
+43,11-11-2023,2:00 PM,Pune,Maharashtra Cricket Association Stadium,Australia,Bangladesh,Australia,Field,306,8,50,1,39,6.12,,,,,24,307,2,44.4,1,,,33,6.87,,,,,,4,Australia,8 Wickets,Mitchell Marsh
+44,11-11-2023,2:00 PM,Kolkata,Eden Gardens,England,Pakistan,England,Bat,244,10,50,1,33,6.74,,,,,19,337,9,43.3,0,,,43,5.6,,,,,,6,England,93 Runs,David Willey
+45,12-11-2023,2:00 PM,Bangalore,M. Chinnaswamy Stadium,India,Netherlands,India,Bat,410,4,50,3,53,8.2,,,,,13,250,10,47.5,0,,,28,5.22,,,,,,15,India,160 Runs,Shreyas Iyer
+46,15-11-2023,2:00 PM,Mumbai,Wankhede Stadium,India,NewZealand,India,Bat,397,4,50,1,49,7.94,,,,,29,327,10,48.5,1,,,40,6.69,,,,,,8,India,70 Runs,Mohammed Shami
+47,16-11-2023,2:00 PM,Kolkata,Eden Gardens,Australia,South Africa,South Africa,Bat,215,7,47.2,4,27,4.54,,,,,11,212,10,49.4,1,,,24,4.26,,,,,,17,Australia,3 Wickets,Travis Head
+48,19-11-2023,2:00 PM,Ahmedabad,Narendra Modi Stadium,India,Australia,Australia,Field,240,10,50,3,16,4.8,,,,,18,241,4,43,0,,,27,5.6,,,,,,12,Australia,6 Wickets,Travis Head
